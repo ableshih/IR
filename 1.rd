@@ -115,8 +115,8 @@ i2cdetect -y -r 1
 
 sudo git clone  https://github.com/gobuyun/seeed_ircamera.git
 
-Cd seeed_ircamera
+cd seeed_ircamera
 
-Sudo python3 seeed_python_ircamera.py
+sudo python3 seeed_python_ircamera.py
 
 
