@@ -85,14 +85,38 @@ sudo examples/sdlscale
 
 sudo apt install libsdl2-dev
 
+----------------------------------------------------------------------------------
+
+
+https://www.instructables.com/id/MLX90640-IR-Thermal-Camera-Working-With-Raspberry-/
 
 
 
+git clone https://github.com/Seeed-Studio/grove.py
+cd grove.py
+# Python2
+sudo pip install .
+# Python3
+sudo pip3 install .
 
 
+curl -sL https://github.com/Seeed-Studio/grove.py/raw/master/install.sh | sudo bash -s -
 
 
+pip3 install python3
 
+pip3 install seeed-python-mlx90640
 
+sudo pip3 install seeed-python-mlx90640
+
+pip3 install --upgrade seeed-python-mlx90640
+
+i2cdetect -y -r 1
+
+sudo git clone  https://github.com/gobuyun/seeed_ircamera.git
+
+Cd seeed_ircamera
+
+Sudo python3 seeed_python_ircamera.py
 
 
