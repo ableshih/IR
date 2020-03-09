@@ -1,4 +1,4 @@
-
+https://www.raspberrypi.org/forums/viewtopic.php?t=234554
 
 https://www.instructables.com/id/MLX90640-IR-Thermal-Camera-Working-With-Raspberry-/
 
