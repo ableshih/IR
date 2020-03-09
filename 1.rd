@@ -119,4 +119,21 @@ cd seeed_ircamera
 
 sudo python3 seeed_python_ircamera.py
 
+----------------------------------------------------------------------------------
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=234554
+
+Once logged in, than:
+1. press Ctrl+Alt+t to open a terminal
+2. type git clone --depth 1 https://github.com/pimoroni/mlx90640-library.git and press Enter key
+3. type cd mlx90640-library/ and press Enter key
+4. type make clean and press Enter key to clean off old object files
+5. type make and press Enter key to build code
+6. type sudo ./fbuf and press Enter key to run the local binary executable
+Note the file permission "x" in the mask on Linux filesystems by listing with ls -l
+
+
+
+
+
 
