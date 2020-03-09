@@ -133,7 +133,11 @@ Once logged in, than:
 Note the file permission "x" in the mask on Linux filesystems by listing with ls -l
 
 
+----------------------------------------------------------------------------------
 
+https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
+
+----------------------------------------------------------------------------------
 
 
 
