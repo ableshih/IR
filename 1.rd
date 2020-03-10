@@ -140,4 +140,9 @@ https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
 ----------------------------------------------------------------------------------
 
 
+https://github.com/pimoroni/mlx90640-library
+
+https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
+
+https://cdn.sparkfun.com/assets/7/b/f/2/d/MLX90640-Datasheet-Melexis.pdf
 
